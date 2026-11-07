@@ -34,6 +34,7 @@ and is held to the table edge with an F-clamp. The Dutch version is in
 | `peg_cap.stl` | cap (upside down, as printed), print 1 |
 | `generate_stl.py` | creates the STLs; all dimensions are at the top and can be changed |
 | `render.py` | creates the impressions (`python3 render.py` and `python3 render.py side`) |
+| `PROMPT.md` | reusable prompt with all design choices, to continue later with an AI assistant |
 
 Rebuild everything after a change:
 

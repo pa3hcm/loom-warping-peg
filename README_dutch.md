@@ -37,6 +37,7 @@ een *table clamp* of *warping peg clamp*.
 | `peg_cap.stl` | dopje (ondersteboven, zoals het geprint wordt), 1 printen |
 | `generate_stl.py` | maakt de STL's; alle maten staan bovenaan en zijn aan te passen |
 | `render.py` | maakt de impressies (`python3 render.py` en `python3 render.py side`) |
+| `PROMPT.md` | herbruikbare prompt (Engels) met alle ontwerpkeuzes, om later met een AI-assistent verder te werken |
 
 Alles opnieuw maken na een wijziging:
 
